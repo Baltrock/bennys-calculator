@@ -1,1 +1,22 @@
 // Specific CSS for your home-page
+.calculator__keys {
+  display: grid;
+  margin: 20px;
+  /* other necessary CSS */
+}
+
+.capsule {
+  width: 700px;
+  align-items: center;
+  margin: 20px;
+}
+
+.calculator__display {
+  border-width: fill;
+  border: 10px;
+}
+
+.centrist {
+  margin: 20px;
+  padding: 20px;
+}
